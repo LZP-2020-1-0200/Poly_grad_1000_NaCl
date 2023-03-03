@@ -102,3 +102,6 @@ INDEX_JSON = '00_index.json'
 A4_width_in = 8.27
 A4_height_in = 11.69
 A4_size_in = (A4_width_in, A4_height_in)
+
+OUTPUTTYPE = ".pdf"
+DPI = 300
